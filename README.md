@@ -17,7 +17,7 @@
 - Data-driven projects for academic performance analysis
 
 ### 📫 How to reach me:
-- **Email**: jose.roman03@example.com
+- **Email**: martinez.cervantes.21040@itsmante.edu.mx
 - **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/jose-roman-martinez-cervantes-94430a175/)
 
 ### ⚡ Fun fact:
