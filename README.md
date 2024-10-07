@@ -7,7 +7,7 @@
 - Embedded Systems and IoT Projects
 
 ### 🌱 I’m currently learning:
-- Advanced Python and Haskell
+- Python and Haskell
 - Network simulations with Cisco Packet Tracer
 - Data Envelopment Analysis (DEA) and its applications
 
@@ -21,7 +21,7 @@
 - **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/jose-roman-martinez-cervantes-94430a175/)
 
 ### ⚡ Fun fact:
-- I’m passionate about customizing cars and have a special interest in pickup trucks, specifically working on performance and exhaust modifications.
+- I’m passionate about customizing cars and have a special interest in pickup trucks.
 ![Mi imagen de perfil](https://paulleduc.net/wp-content/uploads/2021/08/meme-gato-cafe-1024x1024.jpg)
 
 <!---
